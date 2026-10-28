@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+my_database.db
+LEETCODE_COOKIES
